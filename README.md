@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Yusuf Kurtuluş!
+# 👋 Merhaba, Ben Muhammed Yusuf Kurtuluş!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kurtuluş-564a1b253/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MYusuf160)
@@ -46,6 +46,14 @@ Bilgisayar Mühendisliği (2020 - 2025)
 ### 🧪 Kaos Testi Otomasyonu
 - **Açıklama:** İki kişilik bir ekip ile geliştirilen bu projede, yazılım sistemlerinin beklenmeyen durumlara karşı dayanıklılığını test etmek amacıyla Python tabanlı bir kaos testi otomasyon aracı oluşturuldu.
 - **Katkılarım:** Selenium ve unittest kütüphaneleri kullanılarak test senaryoları otomatikleştirildi; test sonuçları ise HTML formatında raporlandı.
+
+## 📊 GitHub İstatistikleri
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MYusuf160&show_icons=true&theme=radical)
+
+## 🔥 En Çok Kullandığım Diller
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYusuf160&layout=compact&theme=radical)
 
 ## 📫 İletişim
 
