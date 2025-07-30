@@ -47,14 +47,6 @@ Bilgisayar Mühendisliği (2020 - 2025)
 - **Açıklama:** İki kişilik bir ekip ile geliştirilen bu projede, yazılım sistemlerinin beklenmeyen durumlara karşı dayanıklılığını test etmek amacıyla Python tabanlı bir kaos testi otomasyon aracı oluşturuldu.
 - **Katkılarım:** Selenium ve unittest kütüphaneleri kullanılarak test senaryoları otomatikleştirildi; test sonuçları ise HTML formatında raporlandı.
 
-## 📊 GitHub İstatistikleri
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MYusuf160&show_icons=true&theme=radical)
-
-## 🔥 En Çok Kullandığım Diller
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYusuf160&layout=compact&theme=radical)
-
 ## 📫 İletişim
 
 - 📍 Bursa, Türkiye
