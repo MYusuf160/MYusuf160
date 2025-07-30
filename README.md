@@ -4,8 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MYusuf160)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufkurtulus554@gmail.com)
 
-Yazılım geliştirme konusunda tutkulu, analitik düşünen ve sürekli öğrenmeye açık bir Bilgisayar Mühendisliği öğrencisiyim. Teknolojiyi insan odaklı çözümler üretmek için kullanmayı hedefliyorum. Disiplinli çalışma ve takım iş birliği alışkanlıklarım sayesinde hem teknik hem de kişisel becerilerimi sürekli geliştiriyorum.
-
 ## 🎯 Profil
 
 Teknolojiyi insan odaklı çözümler üretmek için kullanan, sonuç ve gelişim odaklı bir yazılım geliştiriciyim. Öğrenmeye açık yapım ve disiplinli çalışma alışkanlıklarım sayesinde farklı projelerde sorumluluk alarak hem teknik hem kişisel becerilerimi sürekli geliştiriyorum. Takım çalışmasına uyumlu, detaylara önem veren ve zorluklar karşısında çözüm üretme becerisi güçlü bir profilim var. Hedefim; verimli, güvenilir ve sürdürülebilir yazılımlar geliştirerek çalıştığım kuruma değer katmak.
