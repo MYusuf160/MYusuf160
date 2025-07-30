@@ -49,5 +49,3 @@ Bilgisayar Mühendisliği (2020 - 2025)
 - 📍 Bursa, Türkiye
 - 📞 (551) 588-1388
 - ✉️ [yusufkurtulus554@gmail.com](mailto:yusufkurtulus554@gmail.com)
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-kurtuluş-564a1b253/)
-- 🐱 [GitHub Profilim](https://github.com/MYusuf160)
