@@ -23,6 +23,26 @@ Bilgisayar Mühendisliği (2020 - 2025)
 
 ## 💼 Projeler
 
+### 📊 Customer Churn Prediction Project
+
+## 📖 Proje Açıklaması
+Bu proje, bir telekomünikasyon şirketi için müşteri kaybını (churn) tahmin etmeyi amaçlayan makine öğrenmesi tabanlı bir çözümdür. Projenin temel hedefi, şirketi terk etme olasılığı yüksek olan müşterileri önceden tespit ederek proaktif müşteri elde tutma stratejilerinin geliştirilmesini sağlamaktır.
+
+## 🛠️ Kullanılan Teknolojiler
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## 👨‍💻 Katkılarım
+- 📊 Müşteri verilerinin toplanması ve ön işleme aşamalarının gerçekleştirilmesi
+- 📈 Veri analizi ve görselleştirme çalışmaları
+- 🤖 Farklı makine öğrenmesi algoritmalarının uygulanması ve karşılaştırılması
+- 📊 Model performansının accuracy, precision, recall ve F1-score metrikleriyle değerlendirilmesi
+- 🎯 En iyi modelin seçilerek churn riski tahmini yapılması
+
 ### ⚙️ Makine Arızalarının Tahmini (Machine Failures Prediction)
 - **Açıklama:** Bu proje kapsamında, sanayi ortamında makine arızalarının tahmin edilmesi amacıyla makine öğrenmesi modelleri geliştirildi. Amacımız, makine verileri üzerinden analiz yaparak olası arıza durumlarını önceden tespit edebilmek ve bakım süreçlerini optimize etmekti.
 - **Kullanılan Teknolojiler:** Python, Pandas, Scikit-learn
